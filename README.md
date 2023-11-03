@@ -5,6 +5,6 @@ for setting the project first clone the git repo in your local environment
 
 cd <folder_name>
 
-run  npm install
+run - npm install
 
-run expo start
+run - expo start
